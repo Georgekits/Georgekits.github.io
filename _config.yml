@@ -54,10 +54,6 @@ topics:
     web_url: https://github.com/topics/java
     image_url: https://cdn.worldvectorlogo.com/logos/java-1.svg
 
-  - name: Machine Learning
-    web_url: https://github.com/topics/machine-learning
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cloud-Machine-Learning-Engine-Logo.svg/1024px-Cloud-Machine-Learning-Engine-Logo.svg.png
-
   - name: ReactJS
     web_url: https://github.com/topics/react
     image_url: https://cdn.freebiesupply.com/logos/large/2x/react-logo-png-transparent.png
